@@ -1,0 +1,13 @@
+C:\Users\acer\Downloads\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\bin\Debug\netcoreapp3.1\Person.exe
+C:\Users\acer\Downloads\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\bin\Debug\netcoreapp3.1\Person.deps.json
+C:\Users\acer\Downloads\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.json
+C:\Users\acer\Downloads\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.dev.json
+C:\Users\acer\Downloads\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\bin\Debug\netcoreapp3.1\Person.dll
+C:\Users\acer\Downloads\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\bin\Debug\netcoreapp3.1\Person.pdb
+C:\Users\acer\Downloads\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfoInputs.cache
+C:\Users\acer\Downloads\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfo.cs
+C:\Users\acer\Downloads\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\obj\Debug\netcoreapp3.1\Person.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\obj\Debug\netcoreapp3.1\Person.dll
+C:\Users\acer\Downloads\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\obj\Debug\netcoreapp3.1\Person.pdb
+C:\Users\acer\Downloads\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\obj\Debug\netcoreapp3.1\Person.genruntimeconfig.cache
+C:\Users\acer\Downloads\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\obj\Debug\netcoreapp3.1\Person.csprojAssemblyReference.cache
